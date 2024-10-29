@@ -15,12 +15,6 @@ We start with the shallow copy of the latest commit of the private one.
 curl -L https://foundry.paradigm.xyz | bash
 ```
 
-### Update Foundry
-
-```zsh
-foundryup
-```
-
 ### Install Submodules
 
 ```zsh
